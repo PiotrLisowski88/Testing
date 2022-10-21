@@ -31,10 +31,12 @@ To the Hiring Manager. My name is Piotr Lisowski and i love seeking challanges. 
   - [Codecademy: Learn SQL](https://drive.google.com/file/d/1OlB5CNhgvGX2St2mIekPYjp6mjmuur4M/view?usp=sharing)
   - [Udemy: Kurs Tworzenia Stron WWW w HTML i CSS od Podstaw do Eksperta](https://www.udemy.com/course/kurs-tworzenia-stron-www-w-html-i-css-od-podstaw-do-eksperta/)
 # My Projects
+  - Individual project - testing web store for my client Daniel Piętka [Dunizo.com](https://dunizo.com/)
+    * [Dashboard trello.ccom](https://trello.com/b/IZplGQnu/dunizo)
   - Group project - testing application [Coders_Guru](https://tester.codersguru.pl/)
-    * Dashboard [trello.com](https://trello.com/b/V6IYJ0cA/codersguru)
+    * [Dashboard trello.com](https://trello.com/b/V6IYJ0cA/codersguru)
   - Group project - testing web store [My_store](https://dev-mystore-testlab.coderslab.pl/index.php)
-    * Dashboard [trello.com](https://trello.com/b/hEpv5Ls9/mystore)
+    * [Dashboard trello.com](https://trello.com/b/hEpv5Ls9/mystore)
 # Groups on Facebook
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
