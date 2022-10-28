@@ -9,6 +9,7 @@ To the Hiring Manager. My name is Piotr Lisowski and i love seeking challanges. 
   - [TestLink](https://testlink.org/) Testing tool used for test management
   - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) - Database client Tool
   - [PostgreSQL](https://www.postgresql.org/download/) - Powerful, open source object-relational database system
+  - [AWS](https://aws.amazon.com/) - Cloud platform which I use for database storage and Linux operating system
 # In Progress: 
   - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
   - [Cucumber](https://cucumber.io/) Software tool that supports behavior-driven development (BDD)
@@ -20,11 +21,13 @@ To the Hiring Manager. My name is Piotr Lisowski and i love seeking challanges. 
   - Creating test cases, test plans, test raports
   - Reporting bugs
   - Python - basics
+  - Javascript - basics
   - HTML, CSS
   - Wordpress
 # Certificates
   - [ISTQB] - In progress - Taking the exam on 18 nov 2022  
 # Courses
+  - [Udemy: Automatyzacja testów: WebdriverIO + Typescript - Jenkins](https://www.udemy.com/course/testowanie-automatyczne-webdriverio/) 
   - [CodersLab - Manual Tester Course](https://drive.google.com/file/d/1IfagSNNcbdCbERv2EdXL5_oHV6WFJuoB/view?usp=sharing) - Passed 07/10/2022 
   - [CodersLab - Automation Tester Course](https://drive.google.com/file/d/1YNPr_nD9ETjztftveiNtvwAkLb4MdUou/view?usp=sharing) - In progress  
   - [Udemy: Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
