@@ -10,18 +10,23 @@ To the Hiring Manager. My name is Piotr Lisowski and i love seeking challanges. 
   - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) - Database client Tool
   - [PostgreSQL](https://www.postgresql.org/download/) - Powerful, open source object-relational database system
   - [AWS](https://aws.amazon.com/) - Cloud platform which I use for database storage and Linux operating system
+  - [BrowserStack](https://www.browserstack.com/) - Automated UI framework with access to a browser in a VM with dev tools
+  - [Visual Studio Code](https://code.visualstudio.com/) - Code editor which i use with support for development operations like debugging, task running, and version control
 # In Progress: 
-  - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
+  - [Selenium](https://www.selenium.dev/) - Open source record and playback test automation for the web
   - [Cucumber](https://cucumber.io/) Software tool that supports behavior-driven development (BDD)
   - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
 # Tech skills
   - SQL
   - SCRUM
+  - GIT
+  - Jenkins
   - Software testing
   - Creating test cases, test plans, test raports
   - Reporting bugs
   - Python - basics
-  - Javascript - basics
+  - Javascript + Typescript - basics
+  - WebdriverIO
   - HTML, CSS
   - Wordpress
 # Certificates
