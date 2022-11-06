@@ -12,10 +12,6 @@ To the Hiring Manager. My name is Piotr Lisowski and i love seeking challanges. 
   - [AWS](https://aws.amazon.com/) - Cloud platform which I use for database storage and Linux operating system
   - [BrowserStack](https://www.browserstack.com/) - Automated UI framework with access to a browser in a VM with dev tools
   - [Visual Studio Code](https://code.visualstudio.com/) - Code editor which i use with support for development operations like debugging, task running, and version control
-# In Progress: 
-  - [Selenium](https://www.selenium.dev/) - Open source record and playback test automation for the web
-  - [Cucumber](https://cucumber.io/) Software tool that supports behavior-driven development (BDD)
-  - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
 # Tech skills
   - SQL
   - SCRUM
@@ -29,15 +25,6 @@ To the Hiring Manager. My name is Piotr Lisowski and i love seeking challanges. 
   - WebdriverIO
   - HTML, CSS
   - Wordpress
-# Certificates
-  - [ISTQB] - In progress - Taking the exam on 18 nov 2022  
-# Courses
-  - [Udemy: Automatyzacja testów: WebdriverIO + Typescript - Jenkins](https://www.udemy.com/course/testowanie-automatyczne-webdriverio/) 
-  - [CodersLab - Manual Tester Course](https://drive.google.com/file/d/1IfagSNNcbdCbERv2EdXL5_oHV6WFJuoB/view?usp=sharing) - Passed 07/10/2022 
-  - [CodersLab - Automation Tester Course](https://drive.google.com/file/d/1YNPr_nD9ETjztftveiNtvwAkLb4MdUou/view?usp=sharing) - In progress  
-  - [Udemy: Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
-  - [Codecademy: Learn SQL](https://drive.google.com/file/d/1OlB5CNhgvGX2St2mIekPYjp6mjmuur4M/view?usp=sharing)
-  - [Udemy: Kurs Tworzenia Stron WWW w HTML i CSS od Podstaw do Eksperta](https://www.udemy.com/course/kurs-tworzenia-stron-www-w-html-i-css-od-podstaw-do-eksperta/)
 # My Projects
   - Individual project - Tests automatization for [helion.pl](https://helion.pl) 
     * [GitHub repository](https://github.com/PiotrLisowski88/Testy-Automatyczne-Helion)
@@ -47,6 +34,19 @@ To the Hiring Manager. My name is Piotr Lisowski and i love seeking challanges. 
     * [Dashboard trello.com](https://trello.com/b/V6IYJ0cA/codersguru)
   - Group project - testing web store [My_store](https://dev-mystore-testlab.coderslab.pl/index.php)
     * [Dashboard trello.com](https://trello.com/b/hEpv5Ls9/mystore)
+# In Progress: 
+  - [Selenium](https://www.selenium.dev/) - Open source record and playback test automation for the web
+  - [Cucumber](https://cucumber.io/) Software tool that supports behavior-driven development (BDD)
+  - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
+# Certificates
+  - [ISTQB] - In progress - Taking the exam on 18 nov 2022  
+# Courses
+  - [Udemy: Automatyzacja testów: WebdriverIO + Typescript - Jenkins](https://www.udemy.com/course/testowanie-automatyczne-webdriverio/) 
+  - [CodersLab - Manual Tester Course](https://drive.google.com/file/d/1IfagSNNcbdCbERv2EdXL5_oHV6WFJuoB/view?usp=sharing) - Passed 07/10/2022 
+  - [CodersLab - Automation Tester Course](https://drive.google.com/file/d/1YNPr_nD9ETjztftveiNtvwAkLb4MdUou/view?usp=sharing) - In progress  
+  - [Udemy: Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
+  - [Codecademy: Learn SQL](https://drive.google.com/file/d/1OlB5CNhgvGX2St2mIekPYjp6mjmuur4M/view?usp=sharing)
+  - [Udemy: Kurs Tworzenia Stron WWW w HTML i CSS od Podstaw do Eksperta](https://www.udemy.com/course/kurs-tworzenia-stron-www-w-html-i-css-od-podstaw-do-eksperta/)
 # Groups on Facebook
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
