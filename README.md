@@ -25,7 +25,7 @@ To the Hiring Manager. My name is Piotr Lisowski and i love seeking challanges. 
   - Creating test cases, test plans, test raports
   - Reporting bugs
   - Python - basics
-  - Javascript + Typescript - basics
+  - Test automatization: JavaScript WebdriverIO + Typescript - Jenkins - Allure
   - WebdriverIO
   - HTML, CSS
   - Wordpress
