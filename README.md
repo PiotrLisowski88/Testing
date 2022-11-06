@@ -39,6 +39,8 @@ To the Hiring Manager. My name is Piotr Lisowski and i love seeking challanges. 
   - [Codecademy: Learn SQL](https://drive.google.com/file/d/1OlB5CNhgvGX2St2mIekPYjp6mjmuur4M/view?usp=sharing)
   - [Udemy: Kurs Tworzenia Stron WWW w HTML i CSS od Podstaw do Eksperta](https://www.udemy.com/course/kurs-tworzenia-stron-www-w-html-i-css-od-podstaw-do-eksperta/)
 # My Projects
+  - Individual project - Tests automatization for [helion.pl](https://helion.pl) 
+    * [GitHub repository](https://github.com/PiotrLisowski88/Testy-Automatyczne-Helion)
   - Individual project - testing web store for my client Daniel Piętka [Dunizo.com](https://dunizo.com/)
     * [Dashboard trello.ccom](https://trello.com/b/IZplGQnu/dunizo)
   - Group project - testing application [Coders_Guru](https://tester.codersguru.pl/)
