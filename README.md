@@ -1,6 +1,6 @@
 # Portfolio
 # About me
-To the Hiring Manager. My name is Piotr Lisowski and i love seeking challanges. 6 Years of experience in a full-service IT company have allowed me to acquire skills that I am currently using to develop into a Software Tester. Supported by the already completed course at CodersLab - I am looking for a place among people more experienced than me, who will notice my potential and allow me to spread my wings in the IT world. I really enjoy working with databases and performing queries in SQL. I know and understand the ISTQB issues and plan to take the exam in the near future. I created this porfolio to show what I have mastered so far. More will be coming soon :) 
+To the Hiring Manager. My name is Piotr Lisowski and i love seeking challanges. 6 Years of experience in a full-service IT company have allowed me to acquire skills that I am currently using to develop into a Software Tester. Supported by the already completed course at CodersLab - I am looking for a place among people more experienced than me, who will notice my potential and allow me to spread my wings in the IT world. I really enjoy working with databases and performing queries in SQL.I learned to run automated tests using JavaSctipt, WebDriverIO, Type Script ( Page object model ) in VSC using Jenknis and Allure linking it to my repository [here](https://github.com/PiotrLisowski88/Testy-Automatyczne-Helion). I know and understand the ISTQB issues and plan to take the exam in the future. I created this porfolio to show what I have mastered so far. I upload my learning progress here on a continual basis. More will be coming soon :) 
 # Tools
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
   - [Jing](https://www.techsmith.com/jing-tool.html) - Screen capture software
@@ -12,6 +12,7 @@ To the Hiring Manager. My name is Piotr Lisowski and i love seeking challanges. 
   - [AWS](https://aws.amazon.com/) - Cloud platform which I use for database storage and Linux operating system
   - [BrowserStack](https://www.browserstack.com/) - Automated UI framework with access to a browser in a VM with dev tools
   - [Visual Studio Code](https://code.visualstudio.com/) - Code editor which i use with support for development operations like debugging, task running, and version control
+  - [Jenkins](https://www.jenkins.io/) - an open source automation server that enables support in building, deploying and automating any project.
 # Tech skills
   - SQL
   - SCRUM
