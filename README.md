@@ -30,7 +30,6 @@ To the Hiring Manager. My name is Piotr Lisowski and i love seeking challanges. 
   - Individual project - Tests automatization for [helion.pl](https://helion.pl) 
     * [GitHub repository](https://github.com/PiotrLisowski88/Testy-Automatyczne-Helion)
   - Individual project - testing web store for my client Daniel Piętka [Dunizo.com](https://dunizo.com/)
-    * [Dashboard trello.ccom](https://trello.com/b/IZplGQnu/dunizo)
   - Group project - testing application [Coders_Guru](https://tester.codersguru.pl/)
     * [Dashboard trello.com](https://trello.com/b/V6IYJ0cA/codersguru)
   - Group project - testing web store [My_store](https://dev-mystore-testlab.coderslab.pl/index.php)
