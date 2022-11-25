@@ -19,13 +19,13 @@ To the Hiring Manager. My name is Piotr Lisowski and i love seeking challanges. 
   - SCRUM
   - GIT
   - Jenkins
-  - Software testing
+  - Software testing - ISTQB FL 
   - Creating test cases, test plans, test raports
   - Reporting bugs
   - Python - basics
   - Test automatization: JavaScript WebdriverIO + Typescript - Jenkins - Allure
-  - WebdriverIO
   - HTML, CSS
+  - Webflow
   - Wordpress
 # My Projects
   - Individual project - Tests automatization for [helion.pl](https://helion.pl) 
