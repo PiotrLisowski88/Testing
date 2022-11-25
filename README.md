@@ -39,8 +39,6 @@ To the Hiring Manager. My name is Piotr Lisowski and i love seeking challanges. 
   - [Selenium](https://www.selenium.dev/) - Open source record and playback test automation for the web
   - [Cucumber](https://cucumber.io/) Software tool that supports behavior-driven development (BDD)
   - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
-# Certificates
-  - [ISTQB] - In progress - Taking the exam on 18 nov 2022  
 # Courses
   - [Udemy: Automatyzacja testów: WebdriverIO + Typescript - Jenkins](https://www.udemy.com/course/testowanie-automatyczne-webdriverio/) 
   - [CodersLab - Manual Tester Course](https://drive.google.com/file/d/1IfagSNNcbdCbERv2EdXL5_oHV6WFJuoB/view?usp=sharing) - Passed 07/10/2022 
